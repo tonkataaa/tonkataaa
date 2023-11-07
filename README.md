@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonkataaa&label=Profile%20views&color=0e75b6&style=flat" alt="tonkataaa" /> </p>
 
-- 🌱 I’m currently learning **C#, Unity and HTML in SoftUni.**
+- 🌱 I’m currently learning **C# in SoftUni.**
 
 - 📫 How to reach me **tonikenderov121@gmail.com**
 
