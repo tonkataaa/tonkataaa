@@ -25,4 +25,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tonkataaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonkataaa&" alt="tonkataaa" /></p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
