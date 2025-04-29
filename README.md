@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonkataaa&label=Profile%20views&color=0e75b6&style=flat" alt="tonkataaa" /> </p>
 
-- 🌱 I’m currently learning **C# in SoftUni.**
+- 🎓 Currently pursuing a degree in "Information Technology In The Industry" at Technical University of Sofia.  
 
-- 📫 How to reach me **tonikenderov121@gmail.com**
+- 📫 How to reach me **anton.kenderov1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
