@@ -15,6 +15,7 @@
   <a href="https://instagram.com/tonkata121" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anton-kenderov-20a77b215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anton-kenderov-20a77b215/" height="30" width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anton-kenderov" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
