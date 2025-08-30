@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=tonkataaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+- WORKING ON SOMETHING NEW!!!!!!!!!!!!!!!!!
 - 🎓 Currently pursuing a degree in <b>Information Technology In The Industry</b> at Technical University of Sofia.  
 - 📫 How to reach me: <b>anton.kenderov1@gmail.com</b>
 
