@@ -27,11 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonkataaa&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<h3 align="center">🔝 Top Contributed Repos</h3>
-<p align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=tonkataaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonkataaa" alt="GitHub Streak" />
 </p>
