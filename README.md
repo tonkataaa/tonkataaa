@@ -8,7 +8,7 @@
 </p>
 
 - WORKING ON SOMETHING NEW!!!!!!!!!!!!!!!!!
-- 🎓 Currently pursuing a degree in <b>Information Technology In The Industry</b> at Technical University of Sofia.  
+- 🎓 Currently pursuing a degree in <b>Computer systems and technologies</b> at Technical University of Sofia.  
 - 📫 How to reach me: <b>anton.kenderov1@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
