@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Kenderov</h1>
-<h3 align="center">a Full Stack Developer from Bulgaria, turning ideas into scalable solutions (and making games for fun 🎮)</h3>
+<h3 align="center">A Full Stack Developer from Bulgaria, turning ideas into scalable solutions (and making games for fun 🎮)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonkataaa&label=Profile%20views&color=0e75b6&style=flat" alt="tonkataaa" /> </p>
 
